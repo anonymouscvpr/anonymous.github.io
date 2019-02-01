@@ -1,9 +1,6 @@
 ## PSNR Result For Kodak
+We re-train our architecture using PSNR distortion and show our result can also outperform state-of-the-art algorithms.
 
-You can use the [editor on GitHub](https://github.com/anonymouscvpr/anonymous.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## More Data 
+## More Result realeased 
 
 
